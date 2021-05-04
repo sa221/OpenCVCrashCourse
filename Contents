@@ -2,7 +2,7 @@ Content List:
 
     1. Basics:
         i) Reading Images and Videos
-        ii) Image Transformations
+        ii) Image Transformations (translation, rotation, resize, flip, crop)
         iii) Drawing Shapes
         iv) Putting Text
     2. Advanced:
