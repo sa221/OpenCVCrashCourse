@@ -1,0 +1,17 @@
+Content List:
+
+    1. Basics:
+        i) Reading Images and Videos
+        ii) Image Transformations
+        iii) Drawing Shapes
+        iv) Putting Text
+    2. Advanced:
+        i) Switching between color spaces
+        ii) BITWISE operations
+        iii) Masking
+        iv) Histogram Computation
+        v) Edge Detection
+    3. Face:
+        i) Face Detection
+        ii) Face Recognition
+        iii) Deep Computer Vision
